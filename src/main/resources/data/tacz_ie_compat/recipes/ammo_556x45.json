@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:ingot_steel"
+    },
+    {
+      "item": "immersiveengineering:plate_copper"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    }
+  ],
+  "result": {
+    "item": "tac:ammo",
+    "count": 1,
+    "nbt": "{AmmoId:\"tac:556x45\",AmmoStack:60}"
+  }
+}
